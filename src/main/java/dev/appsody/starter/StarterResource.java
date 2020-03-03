@@ -3,7 +3,7 @@ package dev.appsody.starter;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 
-@Path("/resource")
+@Path("/resources")
 public class StarterResource {
 
     @GET
