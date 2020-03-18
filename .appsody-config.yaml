@@ -1,2 +1,2 @@
 project-name: appsody-projects
-dev.local/appsody/java-openliberty:0.2
+stack: dev.local/appsody/java-openliberty:0.2
